@@ -1,0 +1,25 @@
+{
+  "name": "discordmusic",
+  "version": "1.0.0",
+  "description": "simple music bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielwinkler10/Discord-music-bot.git"
+  },
+  "author": "Daniel Winkler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielwinkler10/Discord-music-bot/issues"
+  },
+  "homepage": "https://github.com/danielwinkler10/Discord-music-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "node-opus": "^0.2.6",
+    "youtube-node": "^1.3.2",
+    "ytdl-core": "^0.15.0"
+  }
+}
